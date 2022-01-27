@@ -7,5 +7,6 @@ web:
 
 
 imagem reponsiva:
+
 ![image](https://user-images.githubusercontent.com/77173258/151410514-4af122e2-618d-4147-a373-9e0dd7f2cf2c.png)
 
